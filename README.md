@@ -15,9 +15,9 @@
 <img src = "https://user-images.githubusercontent.com/53388557/130744442-901376de-afeb-4178-a5c8-ece923f91891.PNG" width="50%" height="50%" align="center">
 <img src = "https://user-images.githubusercontent.com/53388557/130744494-bacee80a-736b-4863-a4a3-531b6b3fbe96.PNG" width="50%" height="50%" align="center">
 
-
 ## 결과물 
 
+### [주차별 발표 영상 다시보기](https://youtube.com/playlist?list=PLvRUlpIVi9qSNjw3g-MNOrEAq9_QUHbRi)
 
 |팀|자료,코드|발표영상|
 |:---:|:---:|:---:|
@@ -26,6 +26,7 @@
 |3팀|[AI를 이용한 의류 분류 시스템](https://github.com/sejongsmarcle/2021_Summer_Makers_Day/tree/main/3%ED%8C%80)|[유튜브 다시보기](https://youtu.be/gsmoIM1fqEI)|
 |5팀|[아파트 화재 알림 시스템](https://github.com/sejongsmarcle/2021_Summer_Makers_Day/tree/main/5%ED%8C%80)|[유튜브 다시보기](https://youtu.be/KpiYwj2ilv8)|
 |6팀|[블루투스를 이용한 휠체어 리프트](https://github.com/sejongsmarcle/2021_Summer_Makers_Day/tree/main/6%ED%8C%80)|[유튜브 다시보기](https://youtu.be/0Jz1DAxW9oY)|
+
 
 
 
